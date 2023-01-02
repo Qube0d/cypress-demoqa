@@ -8,11 +8,9 @@
 
 Integrated with:
 
-- https://webdriver.io/docs/allure-reporter/
-- https://webdriver.io/docs/selenium-standalone-service/
-- https://www.npmjs.com/package/allure-commandline
+- https://github.com/Shelex/cypress-allure-plugin
 
-## Installation
+<!-- ## Installation
 
 - Requires [Node.js](https://nodejs.org/) v14+ to run.
 - Clone and checkout the github project
@@ -65,4 +63,4 @@ npm run allure:generate
 
 ```sh
 npm run allure:open
-```
+``` -->
